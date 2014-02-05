@@ -1,0 +1,112 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+
+#seca
+{
+	width: 100%;
+	height: 100px;
+	background-color: #11669C;
+}
+
+#secb
+{
+	width: 100%;
+	height: 900px;
+	background-color: #ffffff;
+}
+
+
+
+#title
+{
+	color: #ffffff;
+	font-family: 'Sue Ellen Francisco', cursive;
+	font-size: 1.5em;
+	float: left;
+	margin-left: 10px;
+
+}
+
+#nav
+{
+	float: right;
+	font-family: "Sue Ellen Francisco", cursive;
+	font-size: 30px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+#nav ul li
+{
+	list-style-type: none;
+	display: inline;
+	padding-left: 10px;
+}
+
+#nav a
+{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+#nav a:hover
+{
+	text-decoration: none;
+	color: #000000;
+}
+
+#secbinnerwrap
+{
+	width: 70%;
+	height: 700px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+.topinfobox
+{
+	width: 100%;
+	height: 300px;
+	background-color: #4FC0E2;
+	margin: 0 auto;
+}
+
+
+
+.linfobox
+{
+	float: left;
+	background-color: #FFC400;
+	width: 44%;
+	height: 270px;
+	margin-top: 20px;
+
+}
+
+.rinfobox
+{
+	float: right;
+	background-color: #BF00FF;
+	width: 54%;
+	height: 270px;
+	margin-top: 20px;
+}
+
+.infoboxtext
+{
+	font-family: "Sue Ellen Francisco", cursive;
+	margin-left: 10px;
+}
+
+.infoh1
+{
+	font-size: 40px;
+}
+
+.infopara
+{
+	font-size: 25px;
+}
